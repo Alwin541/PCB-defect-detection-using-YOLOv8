@@ -46,12 +46,6 @@ The goal is to support real-time defect detection for PCB quality inspection in 
 
 ⚙️ Installation
 
-Clone the repository
-
-git clone https://github.com/your-username/pcb-defect-detection.git
-cd pcb-defect-detection
-
-
 #Install dependencies
 
 pip install -r requirements.txt
